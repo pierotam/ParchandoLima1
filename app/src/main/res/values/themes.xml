@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ParchandoLima" parent="Theme.AppCompat.DayNight.DarkActionBar">
+
+        <!-- Customize your theme here. -->
+    </style>
+  <!-- Base application theme. -->
+    <style name="Base.Theme.ParchandoLima" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+</resources>
